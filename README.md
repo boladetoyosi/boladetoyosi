@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bolade
-- 👀 I’m interested in ...
+- 👀 I’m interested in developing web applications
 - 🌱 I’m currently learning frontend development in HTML, CSS, Javascript and Vue
 - 💞️ I’m looking to collaborate on projects that'll improve my skill
 
